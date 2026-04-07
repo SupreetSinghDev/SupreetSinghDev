@@ -256,7 +256,7 @@
 <img src="./gmail.png" width=50 height=50 alt="supreet.singh.developer@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/" target="_blank">
+<a href="https://x.com/singh_supr74831" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
 </a>
 
