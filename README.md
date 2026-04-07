@@ -272,7 +272,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_Sup" target="_blank">
+<a href="https://dev.to/supreet_singh_" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
 </a>
 </div>
