@@ -98,7 +98,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SupreetSinghDev">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SupreetSinghDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=SupreetSinghDev&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,000000&title_color=ff2d2d&text_color=ffffff&icon_color=ff2d2d&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" />
         </a>
       </p>
     </td>
@@ -106,7 +106,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SupreetSinghDev">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=SupreetSinghDev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=SupreetSinghDev&theme=dark&background=000000&fire=ff2d2d&ring=ff2d2d&sideNums=ffffff&sideLabels=ffffff&dates=ff4d4d&currStreakNum=ffffff" />
         </a>
       </p>
     </td>
@@ -116,7 +116,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/SupreetSinghDev/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=SupreetSinghDev&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=SupreetSinghDev&repo=storyblok-mcp-server&theme=dark&show_owner=true&bg_color=0,000000,000000&title_color=ff2d2d&text_color=ffffff" />
         </a>
       </p>
     </td>
@@ -124,128 +124,28 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/SupreetSinghDev">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SupreetSinghDev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SupreetSinghDev&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,000000&title_color=ff2d2d&text_color=ffffff" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 <br />
 
-<!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupreetSinghDev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupreetSinghDev&bg_color=000000&color=ffffff&line=ff2d2d&point=ff4d4d&area=false&hide_border=false">
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Great%20things%20are%20not%20done%20by%20impulse%2C%20but%20by%20a%20series%20of%20small%20things%20brought%20together.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Great%20things%20are%20not%20done%20by%20impulse%2C%20but%20by%20a%20series%20of%20small%20things%20brought%20together.&theme=dark&bg_color=000000&author_color=ff4d4d&accent_color=ff2d2d">
 </p>
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
