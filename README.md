@@ -264,11 +264,11 @@
 <img src="./instagram.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/SupreetSinghDev" target="_blank">
+<a href="https://github.com/SupreetSinghDev/" target="_blank">
 <img src="./github.png" width=50 height=50 alt="SupreetSinghDev" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in//" target="_blank">
+<a href="https://www.linkedin.com/in/supreet-singh-dev/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
@@ -280,7 +280,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/SupreetSinghDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/supreet_singh_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
