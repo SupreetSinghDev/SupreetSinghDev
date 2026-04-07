@@ -14,12 +14,12 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer passionate about building scalable web applications and exploring modern software practices. My core expertise includes JavaScript, TypeScript, React.js, Node.js, Java, Spring Boot, Redis, SQL, REST APIs, and Docker, with strong interest in DevOps, CI/CD pipelines, deployment automation, and system reliability </p>
 
-💻 Building full-stack applications with modern technologie
-🌱 Currently learning DevOps tools, cloud workflows, and backend scalability
-.⚡ Focused on clean architecture, performance, and problem solving
-🎨 Also experienced with Adobe Photoshop, Premiere Pro, and After Effects
-🐧 Comfortable working in Linux environments
-❤ Open to collaboration, learning, and impactful tech work
+- 💻 Building full-stack applications with modern technologies
+- 🌱 Currently learning DevOps tools, cloud workflows, and backend scalability
+- ⚡ Focused on clean architecture, performance, and problem solving
+- 🎨 Also experienced with Adobe Photoshop, Premiere Pro, and After Effects
+- 🐧 Comfortable working in Linux environments
+- ❤ Open to collaboration, learning, and impactful tech work
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/SupreetSinghDev).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_Supreet).
