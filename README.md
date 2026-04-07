@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer passionate about building scalable web applications and exploring modern software practices. My core expertise includes JavaScript, TypeScript, React.js, Node.js, Java, Spring Boot, Redis, SQL, REST APIs, and Docker, with strong interest in DevOps, CI/CD pipelines, deployment automation, and system reliability </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
