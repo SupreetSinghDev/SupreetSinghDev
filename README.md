@@ -111,7 +111,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/SupreetSinghDev/storyblok-mcp-server">
+        <a href="https://github.com/SupreetSinghDev/">
           <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=SupreetSinghDev&repo=storyblok-mcp-server&theme=dark&show_owner=true&bg_color=0,000000,000000&title_color=ff2d2d&text_color=ffffff" />
         </a>
       </p>
