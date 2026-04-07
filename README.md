@@ -20,9 +20,7 @@
 - 🎨 Also experienced with Adobe Photoshop, Premiere Pro, and After Effects
 - 🐧 Comfortable working in Linux environments
 - ❤ Open to collaboration, learning, and impactful tech work
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/SupreetSinghDev).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_Supreet).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/supreet_singh_).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://Supreet.com) for more details about me.
 <!--End Intro-->
@@ -58,9 +56,7 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_Supreet/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_Supreet/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_Supreet/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+  <h1>Blogs Coming Soon</h1>
 </ul>
 <br />
 <br />
